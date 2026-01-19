@@ -14,20 +14,16 @@ function Projects() {
             include sticky navigation, responsive layout, and downloadable
             resume.
           </p>
-          <a
-            className="btn"
-            href="https://github.com/USERNAME/rohit-portfolio"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
-          </a>
-          {/* Add live link after deployment */}
-          {/* 
-          <a className="btn" href="https://your-live-link.netlify.app" target="_blank" rel="noreferrer">
-            Live Demo
-          </a> 
-          */}
+          
+              <a
+                className="btn"
+                href="https://rohitrao0.netlify.app"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Live Demo
+              </a>
+
         </div>
 
         {/* Educational Website */}
