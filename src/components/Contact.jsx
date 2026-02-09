@@ -14,6 +14,16 @@ function Contact() {
           View Profile
         </a>
       </p>
+      <p>
+        GitHub:{" "}
+        <a
+          href="https://github.com/Rohit-Rao0"
+          target="_blank"
+          rel="noreferrer"
+        >
+          View Profile
+        </a>
+      </p>
     </div>
   );
 }
