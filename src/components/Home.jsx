@@ -7,7 +7,7 @@ function Home() {
         <h1>
           Hi, I'm <span>Rohit</span>
         </h1>
-        <h3>MCA Student | MERN Stack Developer</h3>
+        <h3> MERN Stack Developer</h3>
 
         <p>
           Motivated Developer with strong proficiency in JavaScript, React, HTML,
