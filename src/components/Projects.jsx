@@ -35,14 +35,7 @@ function Projects() {
             interactive quizzes, and Hogwarts-inspired UI design to enhance
             learning experience.
           </p>
-          <a
-            className="btn"
-            href="https://github.com/USERNAME/educational-website"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
-          </a>
+         
         </div>
 
         {/* Diagon Alley Shop */}
@@ -53,14 +46,7 @@ function Projects() {
             React-based e-commerce website with category filtering, responsive UI,
             and dynamic routing for smooth shopping experience.
           </p>
-          <a
-            className="btn"
-            href="https://github.com/USERNAME/diagon-alley-shop"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
-          </a>
+          
         </div>
       </div>
     </div>

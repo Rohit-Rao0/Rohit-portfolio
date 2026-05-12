@@ -4,7 +4,7 @@ function Skills() {
       <h2 className="title">Technical Skills — MERN Stack Developer</h2>
 
       {/* Frontend */}
-      <h4>Frontend</h4>
+      <h4>Front-end</h4>
       <div className="skills-grid">
         <div className="skill-box">HTML5</div>
         <div className="skill-box">CSS3</div>
@@ -20,7 +20,7 @@ function Skills() {
       </div>
 
       {/* Backend */}
-      <h4 style={{ marginTop: "14px" }}>Backend</h4>
+      <h4 style={{ marginTop: "14px" }}>Back-end</h4>
       <div className="skills-grid">
         <div className="skill-box">Node.js</div>
         <div className="skill-box">Express.js</div>
